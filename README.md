@@ -2,7 +2,7 @@
 Some code that makes beautiful UI experience
 
 
-snippet 1: 
+snippet 1: Adds rainbow splash with min opacaity to the screen 
 ```
 <div className="relative min-h-screen overflow-hidden">
       <div className="absolute inset-0 z-0 w-full max-w-[640px] mx-auto opacity-20 blur-[100px] saturate-[200%]">
